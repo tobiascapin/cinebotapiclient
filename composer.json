@@ -1,0 +1,17 @@
+{
+	"name" : "cinebot/cinebotapiclient",
+	"authors" : [{
+			"name" : "Tobia Scapin",
+			"email" : "tobia@cinebot.it"
+		}
+	],
+	"require" : {
+		"monolog/monolog" : "~2.9"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Cinebot\\" : "src"
+		}
+	},
+	"license" : "proprietary"
+}
