@@ -3,4 +3,5 @@
 /composer.lock
 /composer.phar
 /.buildpath
-/.gitignore
+/.project
+
